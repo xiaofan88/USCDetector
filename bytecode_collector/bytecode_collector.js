@@ -395,10 +395,10 @@ var encodeSignature = function(sig){
 }
 
 let foler = "D:/Code/USCDetector"
-// let file_name = "example_address_list"
+let file_name = "example_address_list"
 
-// getGroundAddressAsy(`${foler}/${file_name}.json`);
+getGroundAddressAsy(`${foler}/${file_name}.json`);
 
 
-let file_name = "example_address_list_parse_logic"
-getGroundAddressAsy(`${foler}/${file_name}.json`, true);
+// let file_name = "example_address_list_parse_logic"
+// getGroundAddressAsy(`${foler}/${file_name}.json`, true);
