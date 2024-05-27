@@ -20,3 +20,4 @@ To run
 node bytecode_collector.js
 ```
 
+*bytecode_collector* generates a new json file in the end.
