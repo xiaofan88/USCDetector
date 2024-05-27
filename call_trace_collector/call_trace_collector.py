@@ -12,7 +12,7 @@ tx_trace_url = "https://tx.eth.samczsun.com/api/v1/trace/ethereum/"
 
 transaction_url = "https://api.etherscan.io/api?module=transaction&action=getstatus&txhash="
 
-apikey = "33AT13C3V1DANVRSP6F5DP9BQP2CBKJRD5"
+apikey = "*****"    # please generate a apikey on the etherscan
 
 
 def request_contract_creation(folder, file_name):
