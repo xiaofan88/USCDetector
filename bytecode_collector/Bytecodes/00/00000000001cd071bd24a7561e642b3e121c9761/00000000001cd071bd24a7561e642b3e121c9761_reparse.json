@@ -1,0 +1,1 @@
+{"address":"0x00000000001cd071bd24a7561e642b3e121c9761","delegatecall":1,"callcode":0,"call":1,"staticcall":0,"nofallback":1,"create":0,"create2":1,"selfdestruct":0,"returndatasize":7,"returndatacopy":3,"functions":["0x0d0ed911","0xac9650d8","0xe6d3d4d0"],"onlyfunctions":["0x0d0ed911","0xac9650d8","0xe6d3d4d0"],"otherfunctions":["0x3d30ef47","0x30116425"]}

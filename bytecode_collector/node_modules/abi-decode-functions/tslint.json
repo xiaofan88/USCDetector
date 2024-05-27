@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "tslint-config-standard",
+    "tslint-no-unused-expression-chai"
+  ],
+  "rules": {
+    "await-promise": false,
+    "deprecation": false,
+    "no-unused-variable": false,
+    "no-use-before-declare": false,
+    "no-floating-promises": false,
+    "no-unnecessary-qualifier": false,
+    "no-unnecessary-type-assertion": false,
+    "strict-type-predicates": false,
+    "space-before-function-paren": [
+      true,
+      {
+        "asyncArrow": "always",
+        "anonymous": "never",
+        "constructor": "never",
+        "method": "never",
+        "named": "never"
+      }
+    ],
+    "space-within-parens": [
+      false
+    ]
+  }
+}
