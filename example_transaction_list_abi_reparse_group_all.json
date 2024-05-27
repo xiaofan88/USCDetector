@@ -1,0 +1,240 @@
+{
+    "0x0000000000085d4780b73119b644ae5ecd22b376": [
+        [
+            "0x1b947f74158a8be613985620e979b706108d699f959b0f04770acde9f84a383f",
+            "0xcdbd95534b5a980f33d1acdee4db7cc1eb8a31de",
+            "2019-01-03 04:53:43 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "C3BEAff45DC921A4A5A3B432aEF519C898d14b28"
+            ]
+        ],
+        [
+            "0x10c46913e9da21b7b6ce6f96f7a717db5f6a316392433428bec4ed0a29f4e9ba",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-01-04 03:51:13 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "d6C03398c2113447d736C869A5C9118823cce9cA"
+            ]
+        ],
+        [
+            "0x695a17a59aad7ce334f24bb2411579c909e6fb4b025ec82ede5cf3be65428b5b",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-01-24 01:16:08 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "7677939b447eBc1CF97F924F07C0d2d0b7C41D44"
+            ]
+        ],
+        [
+            "0xf2a616e8364b06e50c47daf0981adb70852c5c7f010657dcd323c6c403ea5741",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-01-24 01:20:32 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "d6C03398c2113447d736C869A5C9118823cce9cA"
+            ]
+        ],
+        [
+            "0x963292c34dc045fcc85092b5175a61773dc76d2de31098f5697777cbf1df412d",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-01-30 22:13:18 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "08873F4d27d2a9c6d907bd5a90d722B108e56688"
+            ]
+        ],
+        [
+            "0x1f82a568c3bc4d25215c75a88a906419058e072109b4f94e60b3226a55fb2377",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-02-08 02:51:41 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "c97787c9054c3ede4b96B74AbA3F32a336045d6C"
+            ]
+        ],
+        [
+            "0x0ce49183d328daaee25c6415142844572c6e0932ab33a2ff1e105821fbbda6cf",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-04-08 02:16:22 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "137CeaE7Ea876986d280F5916832D51832f79985"
+            ]
+        ],
+        [
+            "0x2f05475a016ad0f910dabc95304968d8c4fe8283dddc2f7bc73cd864b69cdac8",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-04-09 00:36:53 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "137ce3A8d934a2738bd5BdA477E7A9187a75B1E9"
+            ]
+        ],
+        [
+            "0xc09df83f468932dfc343a723d013a5f030a92a1f7a3a3add8d9daf88dbe31688",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-04-12 04:32:13 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "BE9faF3015fB9EfCeD0454450CbE2EAd4Dc41Ca6"
+            ]
+        ],
+        [
+            "0xb9ffc7797bc01e24f5003b44b7e83162c3393ed9da66c0622b735cad4c136dff",
+            "0x8dc4e7e8dd13fb489070d432dfa89a0b93315d8b",
+            "2019-04-17 05:15:24 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "CB9a11afDC6bDb92E4A6235959455F28758b34bA"
+            ]
+        ],
+        [
+            "0xd87e0c0a742650eb71d9c5f265dde7e98f3d66a20cd097ef4139ac08eff5f98c",
+            "0xf0191bda0de7ceacacba70c923286301b9f83c26",
+            "2019-09-15 22:54:36 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "f0191bdA0dE7CEacAcba70C923286301b9f83c26"
+            ]
+        ],
+        [
+            "0x78d382a51f06004f7a1de1ec1ce20bb8554a4bc42040df4838f29ad37ab8646d",
+            "0xe5bb88f649fc813d106fb165fa7037b4e66b78e1",
+            "2020-07-02 21:49:40 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "E5Bb88F649fc813D106Fb165Fa7037B4e66B78E1"
+            ]
+        ]
+    ],
+    "0x0000000000771a79d0fc7f3b7fe270eb4498f20b": [
+        [
+            "0xb62e3093045eb2f6ce04908b6da73ba120d07986d0cf990d3f9f9904be9fc410",
+            "0xe824ff5d7a5de844ea11f5ac5ebe2b6f02b7c511",
+            "2023-02-04 04:55:47 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "93a787dA129B6ba21B969c326C38FbC9Ea618F87"
+            ]
+        ],
+        [
+            "0x5d4147721937c72f6f06bf04a32063a5fdbdb57cee95d2d9bdfdf4e53858c20a",
+            "0xe824ff5d7a5de844ea11f5ac5ebe2b6f02b7c511",
+            "2023-02-04 08:16:59 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "B94D339E26A931d27c2E8Cd8009bC83F49261CC2"
+            ]
+        ]
+    ],
+    "0x03bae4a0f24755a220fa935b9352aa5c3c5caee5": [
+        [
+            "0x0be7b41bc8e7f2df9a9c494e3f7ca7d9af83696260b8785e83bad7befb623156",
+            "0x74c95bdcfb780928e2a77c1cfd3cf267bc16fb06",
+            "2023-01-30 21:22:23 UTC",
+            "setNewImplementation",
+            [
+                "address"
+            ],
+            [
+                "721D8af872c8A4391D325a81e9d1CE968bCDbc94"
+            ]
+        ],
+        [
+            "0xa0cfb290c8e3736a54b211c0b82402922abfb971f79ef6362ae80d5ca3f51ac5",
+            "0x74c95bdcfb780928e2a77c1cfd3cf267bc16fb06",
+            "2023-02-27 12:25:47 UTC",
+            "upgradeTo",
+            [
+                "address"
+            ],
+            [
+                "d9914F0accD222ec2a46F02cA0286ab05c7412Ea"
+            ]
+        ],
+        [
+            "0xd61f3af496278a089d0504797bfe4c594b2ea1a8a40ffdf04d46cdcf40f02ddd",
+            "0x74c95bdcfb780928e2a77c1cfd3cf267bc16fb06",
+            "2023-02-27 12:25:59 UTC",
+            "setNewImplementation",
+            [
+                "address"
+            ],
+            [
+                "5Bd86b9C4FAB21D0D37Df6c971c3160F85408da1"
+            ]
+        ]
+    ],
+    "0x00065b639a3fcc65db399a8cef8c33327ccfe158": [
+        [
+            "0x2b2d30be4f52e239c57a01dd7d233277315cd25b7809e37e9471fe8e97f1ca33",
+            "0xf0b595d10a92a5a9bc3ffea7e79f5d266b6035ea",
+            "2022-05-24 09:09:16 UTC",
+            "setLogic",
+            [
+                "address"
+            ],
+            [
+                "e0F0d15A60a51A4715326cEa2D236239683048C0"
+            ]
+        ]
+    ],
+    "0x000001e1b2b5f9825f4d50bd4906aff2f298af4e": [
+        [
+            "0x4381bd8dbd45dc9b9838a256614ac8e94236e74c0717054e16ff22f42a47b0c3",
+            "0x34eee73e731fb2a428444e2b2957c36a9b145017",
+            "2022-11-24 03:57:59 UTC",
+            "setDataContract",
+            [
+                "address"
+            ],
+            [
+                "069d0d1Bd05A5c6454d08d318eDF493786E57ba4"
+            ]
+        ]
+    ]
+}
