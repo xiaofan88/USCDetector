@@ -32,7 +32,7 @@ This repo contains the code for our WWW'24 paper "Characterizing Ethereum Upgrad
 
   More detail in this [guide](https://github.com/xiaofan88/USCDetector/blob/main/upgrade_chain_constructor/README.md)
 
-  ``
+  ```
   @inproceedings{li2024characterizing,
   title={Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications},
   author={Li, Xiaofan and Yang, Jin and Chen, Jiaqi and Tang, Yuzhe and Gao, Xing},
@@ -40,4 +40,4 @@ This repo contains the code for our WWW'24 paper "Characterizing Ethereum Upgrad
   pages={1847--1858},
   year={2024}
 }
-  ``
+  ```
